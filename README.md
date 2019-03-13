@@ -17,7 +17,7 @@ If you want use other operator to import data, import the process then change th
 ## Import Process to RapidMiner
 1- Clone  
 2- (Optional) Import the excel data  
-3- Change the extention of the xml file to rmp  
+3- Change the extension of the xml file to rmp  
 4- In the RapidMiner, import the rmp using "import process"  
 5- Create your own data perprocessing and do something wonderful :)  
 
