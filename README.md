@@ -1,4 +1,4 @@
-# Non-Linear-Regression-using-SVM
+# Non Linear Regression using Suport Vector Machine (SVM)
 
 ## Abstract
 Regression analysis helps one understand how the typical value of the dependent variable (or 'criterion variable') changes when any one of the independent variables is varied, while the other independent variables are held fixed.  
