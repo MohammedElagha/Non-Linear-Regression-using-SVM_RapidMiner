@@ -19,7 +19,7 @@ If you want use other operator to import data, import the process then change th
 2- (Optional) Import the excel data  
 3- Change the extention of the xml file to rmp  
 4- In the RapidMiner, import the rmp using "import process"  
-5- Create your ower data perprocessing and do something wonderful :)  
+5- Create your own data perprocessing and do something wonderful :)  
 
 ## Process
 ![alt text](https://github.com/MohammedElagha/Non-Linear-Regression-using-SVM/blob/master/nonlinear_regression_process.png)
